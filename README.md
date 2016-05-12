@@ -12,7 +12,7 @@ C:\Users\user\Documents\ArcSight\Dev>python ./ArcSight_ESM_WebServices_API_Clien
 
 Password:
 ```
-```JSON
+```python
 ['resourceId=H-gxUvkwBABCRvFGFq5Z0Ng==']
 
 {'authToken': 'PfDwZEGhFVADIwqKb78SsND5_fjnV3zJETKYt6460MQ.', 'resourceId': 'H-gxUvkwBABCRvFGFq5Z0Ng=='}
