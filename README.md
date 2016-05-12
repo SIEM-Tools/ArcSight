@@ -16,8 +16,10 @@ Password:
 ['resourceId=H-gxUvkwBABCRvFGFq5Z0Ng==']
 
 {'authToken': 'PfDwZEGhFVADIwqKb78SsND5_fjnV3zJETKYt6460MQ.', 'resourceId': 'H-gxUvkwBABCRvFGFq5Z0Ng=='}
-
+```
+```javascript
 https://esm:8443/www/manager-service/rest/ActiveListService/getEntries?&authToken=PfDwZEGhFVADIwqKb78SsND5_fjnV3zJETKYt6460MQ.&resourceId=H-gxUvkwBABCRvFGFq5Z0Ng==&alt=json
-
+```
+```python
 {u'act.getEntriesResponse': {u'act.return': {u'columns': [u'name', u'targetAddress', u'targetZone']}}}
 ```
